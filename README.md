@@ -23,7 +23,7 @@ An AWS IAM user with permissions to manage CloudWatch, SNS, and Billing (e.g., B
 
 ** Clone the repository: **
 
-git clone https://github.com/Pepuhove/aws-billing-alert.git
+git clone https://github.com/Pepuhove/aws-billing-alert-terraform.git
 cd aws-billing-alert
 
 Initialize Terraform:
